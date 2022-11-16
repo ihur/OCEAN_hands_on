@@ -1,4 +1,7 @@
 # streamlit을 이용한 OCEAN test 설명 페이지 입니다.
+* 1단계 데이터 검증
+* 2단계 변수 생성
+* 3단계 OCEAN 테스트 결과 보기
 
 ## 메인 페이지: 처음 streamlit을 실행하면 뜨는 화면입니다.
 <img width="946" alt="Screen Shot 2022-11-16 at 4 13 28 PM" src="https://user-images.githubusercontent.com/16106185/202295553-d01b739a-f111-4166-a6e5-4598c6e4ea80.png">
